@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+.container1 {
+    background-color: rgb(224, 224, 224);
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.blueSquare {
+    background-color: rgb(72, 159, 251);
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.container2 {
+    margin: 50px;
+}
+
+.container3 {
+    height: 605px;
+}
+
+.blueRectangle {
+    background-color: rgb(72, 159, 251);
+    height: 25%;
+}
+
+.greenRectangle {
+    background-color: rgb(130, 224, 182);
+    height: 25%;
+}
+
+.greenRectangle2 {
+    background-color: rgb(151, 208, 151);
+    height: 25%;
+}
+
+.yellowRectangle {
+    background-color: rgb(224, 224, 59);
+    height: 25%;
+}
