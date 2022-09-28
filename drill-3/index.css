@@ -4,7 +4,7 @@ body {
 
 .container1 {
     background-color: rgb(224, 224, 224);
-    height: 70px;
+    height: 100px;
     display: flex;
     align-items: center;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .container3 {
-    height: 605px;
+    height: 840px;
 }
 
 .blueRectangle {
